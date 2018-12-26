@@ -1,0 +1,19 @@
+c:\users\kushal\documents\visual studio 2012\Projects\WavStagno\WavStagno\bin\Debug\WavStagno.exe.config
+C:\Users\Kushal\documents\visual studio 2012\Projects\WavStagno\WavStagno\bin\Debug\WavStagno.exe
+C:\Users\Kushal\documents\visual studio 2012\Projects\WavStagno\WavStagno\bin\Debug\WavStagno.pdb
+C:\Users\Kushal\documents\visual studio 2012\Projects\WavStagno\WavStagno\obj\Debug\WavStagno.frmMain.resources
+C:\Users\Kushal\documents\visual studio 2012\Projects\WavStagno\WavStagno\obj\Debug\WavStagno.Properties.Resources.resources
+C:\Users\Kushal\documents\visual studio 2012\Projects\WavStagno\WavStagno\obj\Debug\WavStagno.csproj.GenerateResource.Cache
+C:\Users\Kushal\documents\visual studio 2012\Projects\WavStagno\WavStagno\obj\Debug\WavStagno.exe
+C:\Users\Kushal\documents\visual studio 2012\Projects\WavStagno\WavStagno\obj\Debug\WavStagno.pdb
+C:\Users\Kushal\documents\visual studio 2012\Projects\WavStagno\WavStagno\obj\Debug\WavStagno.csprojResolveAssemblyReference.cache
+C:\Users\subramanyam.B2BSOFTECH\Desktop\MINI 3\2\WavStagno-master\WavStagno\bin\Debug\WavStagno.exe.config
+C:\Users\subramanyam.B2BSOFTECH\Desktop\MINI 3\2\WavStagno-master\WavStagno\bin\Debug\WavStagno.exe
+C:\Users\subramanyam.B2BSOFTECH\Desktop\MINI 3\2\WavStagno-master\WavStagno\bin\Debug\WavStagno.pdb
+C:\Users\subramanyam.B2BSOFTECH\Desktop\MINI 3\2\WavStagno-master\WavStagno\obj\Debug\WavStagno.csprojAssemblyReference.cache
+C:\Users\subramanyam.B2BSOFTECH\Desktop\MINI 3\2\WavStagno-master\WavStagno\obj\Debug\WavStagno.frmMain.resources
+C:\Users\subramanyam.B2BSOFTECH\Desktop\MINI 3\2\WavStagno-master\WavStagno\obj\Debug\WavStagno.Properties.Resources.resources
+C:\Users\subramanyam.B2BSOFTECH\Desktop\MINI 3\2\WavStagno-master\WavStagno\obj\Debug\WavStagno.csproj.GenerateResource.cache
+C:\Users\subramanyam.B2BSOFTECH\Desktop\MINI 3\2\WavStagno-master\WavStagno\obj\Debug\WavStagno.csproj.CoreCompileInputs.cache
+C:\Users\subramanyam.B2BSOFTECH\Desktop\MINI 3\2\WavStagno-master\WavStagno\obj\Debug\WavStagno.exe
+C:\Users\subramanyam.B2BSOFTECH\Desktop\MINI 3\2\WavStagno-master\WavStagno\obj\Debug\WavStagno.pdb
